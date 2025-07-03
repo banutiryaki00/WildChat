@@ -8,6 +8,7 @@ Access: https://huggingface.co/datasets/allenai/WildChat
 
 Classes Implemented:
 •IntentClassifier: Rule-based intent classification using regex patterns
+•TextPreprocessor: Text cleaning and preprocessing for topic modeling
 
 Intent Categories:
 •Information_Seeking: Questions and explanations (7.2%)
